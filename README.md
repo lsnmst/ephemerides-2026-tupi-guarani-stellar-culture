@@ -1,0 +1,26 @@
+# Ephemerides 2026 - Tupi-Guarani Stellar Culture Visualization
+
+This Python script generates a multi-night sky-dome animation of the 2026 ephemerides, visualizing the stars according to the **Tupi-Guarani astronomical culture**, compiled by the **Seichú Astronomical Observatory**, located in the **Parque Arqueológico da Pedra do Sol**, Serra do Cipó, Minas Gerais, Brazil.
+The visualization highlights stars, their trajectories across the night sky, and constellation imagery with culturally significant names and symbols.
+
+---
+
+## Features
+
+- Plots stars for multiple nights based on CSV input.
+- Converts **Right Ascension (RA) and Declination (Dec)** from standard astronomical format to sky coordinates.
+- Generates a **polar sky dome** showing star positions and trajectories.
+- Adds **constellation images and labels** in a legend panel.
+- Includes **title and current time** in the legend panel for each frame.
+- Produces a **GIF animation** of the night sky.
+
+---
+
+## Installation
+
+1. Ensure you have **Python 3.9+** installed.
+
+2. Install dependencies using `pip` 
+
+```bash
+pip install -r requirements.txt
