@@ -1,3 +1,6 @@
+# Copyright (C) 2025 Seichú Astronomical Observatory
+# License: CC BY-NC 4.0 (Attribution-NonCommercial)
+# Data compiled for Tupi-Guarani Stellar Culture
 constellation,star,date,RA_hms,Dec_dms,mag
 Estrela Vagalume (Uam-rana),α CMa,01/01/2026,06:45:07.929,-16:43:29.82,4.8
 Estrela Tinguaçu (Tinguaçu),41 Ari,03/01/2026,02:49:59.163,27:15:34.79,4.8
@@ -131,6 +134,7 @@ Poço do Tapir (Tapí’i Huguá),LMC,12/12/2026,05:23:34.006,-69:45:22.00,4.8
 Encantado da Fertilidade (Joykexo),δ Ori,15/12/2026,05:32:00.400,-00:17:56.74,4.8
 Encantado da Fertilidade (Joykexo),ε Ori,15/12/2026,05:36:12.813,-01:12:06.90,4.8
 Encantado da Fertilidade (Joykexo),ζ Ori,15/12/2026,05:40:45.527,-01:56:33.26,4.8
+
 
 
 
