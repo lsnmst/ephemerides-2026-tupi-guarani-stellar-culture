@@ -11,7 +11,7 @@ The visualization highlights stars, their trajectories across the night sky, and
 - Converts **Right Ascension (RA) and Declination (Dec)** from standard astronomical format to sky coordinates.
 - Generates a **polar sky dome** showing star positions and trajectories.
 - Adds **constellation images and labels** in a legend panel.
-- Includes **title and current time** in the legend panel for each frame.
+- Includes **title and current time** for each frame.
 - Produces a **GIF animation** of the night sky.
 
 ---
